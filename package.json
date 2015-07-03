@@ -1,5 +1,5 @@
 {"name"        : "libxml-dom",
- "version"     : "0.1.2",
+ "version"     : "0.1.3",
  "description" : "Thin wrapper for libxmljs providing W3C DOM API",
  "license"     : "WTFPL",
  "main"        : "lib/index.js",

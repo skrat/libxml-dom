@@ -24,4 +24,9 @@ describe("Element", function() {
             parse("<a><b/>sdg<c/><d/></a>").documentElement.children.length,
             3);
     });
+    it("should have parent", function() {
+        assert.equal(
+            parse("<a><b>one</b></a>").querySelector('b').parentNode.tagName,
+            'a');
+    });
 });

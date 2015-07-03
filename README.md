@@ -17,6 +17,7 @@ What's supported
  - /
  - **Element**.attributes
  - **Element**.children
+ - **Element**.parentNode
  - **Element**.tagName
  - **Element**.getAttribute(...)
  - **Element**.querySelector(...)
