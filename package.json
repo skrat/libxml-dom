@@ -1,11 +1,12 @@
 {"name"        : "libxml-dom",
- "version"     : "0.1.1",
+ "version"     : "0.1.2",
  "description" : "Thin wrapper for libxmljs providing W3C DOM API",
+ "license"     : "WTFPL",
  "main"        : "lib/index.js",
 
   "repository"   :  "https://github.com/skrat/libxml-dom.git",
   "dependencies" :  {
-    "libxmljs" : "0.11.1"
+    "libxmljs" : "0.14.2"
   },
   "devDependencies" : {
     "mocha" : "1.21.4"
