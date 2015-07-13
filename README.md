@@ -1,5 +1,7 @@
-W3C DOM compatible API to libxml2
+W3C DOM compatible API to libxml2 
 =================================
+
+[![Circle CI](https://circleci.com/gh/skrat/libxml-dom.svg?style=svg)](https://circleci.com/gh/skrat/libxml-dom)
 
 W3C DOM comptible API to [libxmljs](https://github.com/polotek/libxmljs/)
 including Selectors API. Everything here so far is incomplete and implemented
